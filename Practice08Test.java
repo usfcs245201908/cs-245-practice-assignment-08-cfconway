@@ -66,6 +66,8 @@ public class Practice08Test {
 					list.add(token);
 				}
 			}
+			// String wordToFind = "The";
+
 			if (list.size() == 0) {
 				// Pass the test... even though it's not really tested well.
 				System.out.println("[20%] = Could not execute insert multiple items test; assumed correct");
